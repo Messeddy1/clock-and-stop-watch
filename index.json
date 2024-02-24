@@ -1,0 +1,11 @@
+{
+    "name": "John",
+    "age": 30,
+    "isStudent": false,
+    "languages": ["JavaScript", "Python", "Java"],
+    "address": {
+      "city": "New York",
+      "country": "USA"
+    }
+  }
+  
